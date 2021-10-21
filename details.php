@@ -56,5 +56,4 @@
             <td><a href="delete.php?reci_id=<?php echo $row['reci_id']; ?>"><i class="fas fa-trash"></i></a></td>
         </form>
     </div>
-
 </main>
